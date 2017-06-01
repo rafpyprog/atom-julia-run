@@ -1,12 +1,13 @@
 {
-  "name": "atom-python-run",
-  "main": "./lib/atom-python-run.js",
-  "version": "0.7.3",
-  "description": "Run a python source file.",
+  "name": "atom-julia-run",
+  "main": "./lib/atom-julia-run.js",
+  "version": "0.0.1",
+  "description": "Run a Julia source file.",
   "keywords": [
-    "python"
+    "Julia",
+    "JuliaLang"
   ],
-  "repository": "https://github.com/foreshadow/atom-python-run",
+  "repository": "https://github.com/rafpyprog/atom-julia-run",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
