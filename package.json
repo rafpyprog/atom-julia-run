@@ -1,7 +1,7 @@
 {
   "name": "atom-julia-run",
   "main": "./lib/atom-julia-run.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Run a Julia source file.",
   "keywords": [
     "Julia",
