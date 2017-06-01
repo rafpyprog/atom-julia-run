@@ -7,8 +7,8 @@ Run your Julia source file (.jl) using `F5` or `F6`!
 
 # Prerequisite
 
-- Windows
-- Add the directory of julia.exe to ```PATH```.
+- Windows or Linux with gnome-terminal;
+- julia should be on ```PATH```.
 
 # Method of use
 
@@ -16,13 +16,8 @@ Run your Julia source file (.jl) using `F5` or `F6`!
 2. Hit `F5` or `F6` to run.
   - **It will save the file in current editor immediately without a confirmation, be aware.**
 
-# Features
+# Contribute
 
-- Using `julia.exe`
-  - Almost the same console with python IDLE, which provides syntax error and runtime error messages.
-- CodeBlocks debug console style
-  - Shows return value and execution time
-    - It is a rough time based on real time rather than CPU kernel time or CPU user time
 - New an issue if you have any idea of new features.
 
 This is a package for Atom
