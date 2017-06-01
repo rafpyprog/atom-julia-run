@@ -3,7 +3,7 @@
 
 Run your Julia source file (.jl) using `F5` or `F6`!
 
-![](img/sample_run_julia.png)
+![](https://raw.githubusercontent.com/rafpyprog/atom-julia-run/master/img/sample_run_julia.png)
 
 # Prerequisite
 
