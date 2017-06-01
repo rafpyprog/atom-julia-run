@@ -3,7 +3,7 @@
 
 Run your Julia source file (.jl) using `F5` or `F6`!
 
-![](https://cloud.githubusercontent.com/assets/2712675/18710388/9a665ed8-8037-11e6-803a-35e4555e89d0.jpg)
+![](img/sample_run_julia.png)
 
 # Prerequisite
 
